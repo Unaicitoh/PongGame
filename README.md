@@ -2,7 +2,7 @@
 # Pong Game
 
 ### My first game!
-### Link to download [Pong](https://1ai-13.itch.io/pong-game)
+Link to download [Pong](https://1ai-13.itch.io/pong-game)
 
 Controls: 
 - W/S 
