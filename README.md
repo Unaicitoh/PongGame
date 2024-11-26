@@ -11,6 +11,7 @@ Scores:
 - Cookie -50p. reset speed.
 
 No options to turn off the sounds effects or music, they have fixed values.
+
 Unzip the filed on the desired directory and click on desktop.exe to launch the game!
 
 **Have fun!**
